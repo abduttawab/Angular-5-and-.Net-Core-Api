@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenIdDictAuth", "OpenIdDictAuth\OpenIdDictAuth.csproj", "{36709238-C47C-4A5F-B4AC-1FF6396A9943}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularApp", "AngularApp\AngularApp.csproj", "{47C776DB-CA9A-4DD8-A7C5-55BD77F09D35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppApi", "AppApi\AppApi.csproj", "{B195B900-91C8-46B7-A900-BA284183AB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36709238-C47C-4A5F-B4AC-1FF6396A9943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36709238-C47C-4A5F-B4AC-1FF6396A9943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36709238-C47C-4A5F-B4AC-1FF6396A9943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36709238-C47C-4A5F-B4AC-1FF6396A9943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C776DB-CA9A-4DD8-A7C5-55BD77F09D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C776DB-CA9A-4DD8-A7C5-55BD77F09D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C776DB-CA9A-4DD8-A7C5-55BD77F09D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C776DB-CA9A-4DD8-A7C5-55BD77F09D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B195B900-91C8-46B7-A900-BA284183AB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B195B900-91C8-46B7-A900-BA284183AB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B195B900-91C8-46B7-A900-BA284183AB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B195B900-91C8-46B7-A900-BA284183AB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7B1A41-150A-44A3-B922-DE0846C2D770}
+	EndGlobalSection
+EndGlobal

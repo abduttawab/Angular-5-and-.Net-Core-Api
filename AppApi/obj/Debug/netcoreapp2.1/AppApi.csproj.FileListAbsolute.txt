@@ -1,0 +1,14 @@
+C:\Projects\Core\OpenIdDictAuth\AppApi\bin\Debug\netcoreapp2.1\AppApi.deps.json
+C:\Projects\Core\OpenIdDictAuth\AppApi\bin\Debug\netcoreapp2.1\AppApi.runtimeconfig.json
+C:\Projects\Core\OpenIdDictAuth\AppApi\bin\Debug\netcoreapp2.1\AppApi.runtimeconfig.dev.json
+C:\Projects\Core\OpenIdDictAuth\AppApi\bin\Debug\netcoreapp2.1\AppApi.dll
+C:\Projects\Core\OpenIdDictAuth\AppApi\bin\Debug\netcoreapp2.1\AppApi.pdb
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.csproj.CoreCompileInputs.cache
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.RazorAssemblyInfo.cache
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.RazorAssemblyInfo.cs
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.AssemblyInfoInputs.cache
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.AssemblyInfo.cs
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.RazorTargetAssemblyInfo.cache
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.dll
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.pdb
+C:\Projects\Core\OpenIdDictAuth\AppApi\obj\Debug\netcoreapp2.1\AppApi.csprojAssemblyReference.cache
