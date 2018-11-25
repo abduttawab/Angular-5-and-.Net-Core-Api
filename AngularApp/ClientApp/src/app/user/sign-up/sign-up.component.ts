@@ -30,6 +30,9 @@ export class SignUpComponent implements OnInit {
       FirstName: '',
       LastName: ''
     }
+
+
+
   }
 
   OnSubmit(form: NgForm) {

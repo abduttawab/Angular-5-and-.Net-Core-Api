@@ -21,6 +21,7 @@ import { UserService } from './shared/user.service';
 import { CommonModule } from '@angular/common';
 
 import { ToastrModule } from 'ngx-toastr';
+import { appRoutes } from './routes';
 
 
 
@@ -42,11 +43,14 @@ import { ToastrModule } from 'ngx-toastr';
     BrowserAnimationsModule, // required animations module
     ToastrModule.forRoot(), // ToastrModule added
     FormsModule,
-    RouterModule.forRoot([
-      { path: '', component: HomeComponent, pathMatch: 'full' },
-      { path: 'counter', component: CounterComponent },
-      { path: 'fetch-data', component: FetchDataComponent },
-    ])
+
+    RouterModule.forRoot(appRoutes)
+
+    //RouterModule.forRoot([
+    //  { path: '', component: HomeComponent, pathMatch: 'full' },
+    //  { path: 'counter', component: CounterComponent },
+    //  { path: 'fetch-data', component: FetchDataComponent },
+    //])
   ],
   providers: [UserService],
   bootstrap: [AppComponent]
